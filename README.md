@@ -11,12 +11,12 @@ If you want to edit the hotel details go to the [Hoteligo Admin Application](htt
 
 Sign In and Sign Up Images:
 
-<img src="read-images/signIn.png" width="300px"/> <img src="read-images/signIn.png" width="300px"/>
+<img src="readme-images/signIn.png" width="300px"/> <img src="readme-images/signIn.png" width="300px"/>
 
 Home and Hotel List Images:
 
-<img src="read-images/home.png" width="300px"/> <img src="read-images/hotelList.png" width="300px"/>
+<img src="readme-images/home.png" width="300px"/> <img src="readme-images/hotelList.png" width="300px"/>
 
 Hotel Booking Images:
 
-<img src="read-images/hotelBooking-0.png" width="300px"/> <img src="read-images/hotelBooking-1.png" width="300px"/>
+<img src="readme-images/hotelBooking-0.png" width="300px"/> <img src="readme-images/hotelBooking-1.png" width="300px"/>
